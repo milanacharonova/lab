@@ -1,2 +1,1 @@
-Nissan 8 8 8
-lada 7 7 7
+Kia Rio 67675 Alex
